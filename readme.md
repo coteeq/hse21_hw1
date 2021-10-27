@@ -39,7 +39,7 @@ scp bio:trimmed_multi/multiqc_report.html ./multiqc_trimmed.html
 до подрезания:
 ![](./img/1.png)
 после подрезания:
-1[](./img/2.png)
+![](./img/2.png)
 
 далее идем в жупитер ноутбук и делаем остальную работу там.
 
